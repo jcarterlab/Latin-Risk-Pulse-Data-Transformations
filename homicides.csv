@@ -1,25 +1,26 @@
 name,type,year,value
 East Asia & Pacific,region,2021,0.9
+Europe & Central Asia,region,2021,2.5
 Latin America & Caribbean,region,2021,19.5
 Middle East & North Africa,region,2021,3.9
 North America,region,2021,6.3
 Sub-Saharan Africa,region,2021,13.9
-Argentina,country,2021,4.622678556
-Belize,country,2021,31.24757831
-Bolivia,country,2021,3.493530181
-Brazil,country,2020,22.3840654
-Chile,country,2021,3.632038675
-Colombia,country,2021,27.48436513
-Costa Rica,country,2021,11.40870985
-Cuba,country,2019,4.418250503
-Dominican Republic,country,2021,10.54158423
-Ecuador,country,2021,14.02425488
-Guatemala,country,2021,19.9903643
-Honduras,country,2021,38.34274689
-Haiti,country,2021,13.00712841
-Mexico,country,2021,28.17565299
-Nicaragua,country,2021,11.00643161
-Panama,country,2021,12.73192383
-Peru,country,2020,5.71389864
-El Salvador,country,2021,18.16549846
-Uruguay,country,2021,8.901835953
+Argentina,country,2021,4.62267855620475
+Belize,country,2021,31.2475783126808
+Bolivia,country,2021,3.49353018078936
+Brazil,country,2020,22.384065397269
+Chile,country,2021,3.63203867485069
+Colombia,country,2021,27.4843651251417
+Costa Rica,country,2021,11.4087098514792
+Cuba,country,2019,4.4182505026975
+Dominican Republic,country,2021,10.5415842337116
+Ecuador,country,2021,14.0242548813931
+Guatemala,country,2021,19.9903643036608
+Honduras,country,2021,38.3427468944297
+Haiti,country,2021,13.0071284130281
+Mexico,country,2021,28.1756529873319
+Nicaragua,country,2021,11.0064316097709
+Panama,country,2021,12.7319238281632
+Peru,country,2020,5.71389863958169
+El Salvador,country,2021,18.1654984604067
+Uruguay,country,2021,8.90183595258911
