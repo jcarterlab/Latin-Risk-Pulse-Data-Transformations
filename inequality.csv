@@ -1,0 +1,27 @@
+name,type,year,value
+east_asia_pacific_countries,region,2009-2023,35.24444444444445
+europe_central_asia_countries,region,1998-2023,31.077551020408162
+latin_america_caribbean_countries,region,1992-2023,44.326923076923066
+mena_countries,region,2010-2023,33.176923076923075
+north_america_countries,region,2019-2023,35.75
+sub_saharan_africa_countries,region,2011-2023,41.35434782608696
+Argentina,country,2022,40.7
+Belize,country,1999,53.3
+Bolivia,country,2021,40.9
+Brazil,country,2022,52.0
+Chile,country,2022,43.0
+Colombia,country,2022,54.8
+Costa Rica,country,2022,47.2
+Cuba,country,2023,
+Dominican Republic,country,2022,37.0
+Ecuador,country,2022,45.5
+Guatemala,country,2014,48.3
+Honduras,country,2019,48.2
+Haiti,country,2012,41.1
+Mexico,country,2022,43.5
+Nicaragua,country,2014,46.2
+Panama,country,2023,48.9
+Peru,country,2022,40.3
+Puerto Rico,country,2023,
+El Salvador,country,2022,38.8
+Uruguay,country,2022,40.6
